@@ -1,0 +1,1 @@
+enum VoucherType { redeem, cachback }
