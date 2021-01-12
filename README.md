@@ -1,6 +1,9 @@
 # papasi
 
-A new Flutter project.
+I've been starting for 9 months. This is a concept for loyality club that users can interact with micro businesses and gain coin dou to buying something.
+I used graphQL and Flutter.
+
+
 
 ## Getting Started
 
